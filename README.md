@@ -1,7 +1,7 @@
 ### Michael Campbell
 
 Quantitative researcher working at the intersection of stochastic simulation,
-financial risk, and production software. Trained in probability theory at
+financial risk and production software. Trained in probability theory at
 Oxford and Cambridge; previously built risk models at BNP Paribas and
 Algorithmics (now Moody's Analytics), and stochastic simulation and
 optimisation systems at Ocado.

@@ -21,4 +21,4 @@ Julia · Rust · R · Python
 
 **Reach me**
 
-[LinkedIn](www.linkedin.com/in/michael-campbell-990887203)
+[LinkedIn](https://www.linkedin.com/in/michael-campbell-990887203)

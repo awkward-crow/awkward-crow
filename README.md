@@ -1,23 +1,25 @@
 ### Michael Campbell
 
-Quantitative researcher working at the intersection of stochastic simulation,
-financial risk and production software. Trained in probability theory at
-Oxford and Cambridge; previously built risk models at BNP Paribas and
-Algorithmics (now Moody's Analytics), and stochastic simulation and
-optimisation systems at Ocado.
+Quantitative researcher working at the intersection of mathematics and
+production software. I develop models as well as implement them — in financial
+risk, stochastic simulation, catastrophe modelling and machine learning.
+Previously at Ocado, BNP Paribas and Algorithmics (now Moody's Analytics).
 
 **Currently working on**
 
-**[Entangle.jl](https://github.com/awkward-crow/Entangle.jl)** — an open-source
-portfolio-level cyber risk quantification framework in Julia. Implements the
-FAIR methodology with heavy-tailed severity distributions (GPD-based spliced
-model) and a Student-t factor copula for accumulation risk, producing
-exceedance probability curves and PML estimates in standard catastrophe
-modelling format.
+**[njord](https://github.com/awkward-crow/njord)** — an open-source R package
+that designs parametric windstorm covers for UK regions from ERA5 reanalysis
+and measures their basis risk, tested out of sample.
+
+**[Entangle.jl](https://github.com/awkward-crow/Entangle.jl)** — a
+portfolio-level cyber risk quantification framework implementing the FAIR
+methodology with a GPD-based spliced severity model and a Student-t factor
+copula for accumulation risk, producing EP curves and PML estimates in standard
+catastrophe modelling format.
 
 **Tools**
 
-Julia · Rust · R · Python
+Python · R · Rust · Julia
 
 **Reach me**
 
